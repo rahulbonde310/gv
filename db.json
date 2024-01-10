@@ -1,0 +1,341 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "allProducts": [
+    {
+      "name": "King Headboard with Floating Nightstands",
+      "specno": "GR-322-CG",
+      "price": "375.84",
+      "unit": "EA",
+      "category": "king",
+      "image": "assets/products/one.png",
+      "roomCategory": [
+        "King",
+        "Queen"
+      ],
+      "piece": [
+        "Lobby",
+        "Guestroom",
+        "Full Scope"
+      ],
+      "upload": [],
+      "id": 1
+    },
+    {
+      "name": "TV Panel",
+      "specno": "GR-321-CG",
+      "price": "182.52",
+      "unit": "EA",
+      "category": "king",
+      "image": "assets/products/two.png",
+      "roomCategory": [
+        "King",
+        "Queen"
+      ],
+      "piece": [
+        "Lobby",
+        "Guestroom",
+        "Full Scope"
+      ],
+      "upload": [],
+      "id": 2
+    },
+    {
+      "name": "Combo Unit - Left/Right",
+      "specno": "GR-324-CG",
+      "price": "624.24",
+      "unit": "EA",
+      "category": "king",
+      "image": "assets/products/three.png",
+      "roomCategory": [
+        "King",
+        "Queen"
+      ],
+      "piece": [
+        "Lobby",
+        "Guestroom",
+        "Full Scope"
+      ],
+      "upload": [],
+      "id": 3
+    },
+    {
+      "name": "Bathroom Vanity Base, ADA",
+      "specno": "GR-332-CG",
+      "price": "304.56",
+      "unit": "EA",
+      "category": "king",
+      "image": "assets/products/four.png",
+      "roomCategory": [
+        "King",
+        "Queen"
+      ],
+      "piece": [
+        "Lobby",
+        "Guestroom",
+        "Full Scope"
+      ],
+      "upload": [],
+      "id": 4
+    }
+  ],
+  "userEnquiry": [
+    {
+      "name": "rahul",
+      "email": "rahulb310@gmail.com",
+      "mobile": "987654321",
+      "reno": "Renovation of my Property",
+      "proper": "Wingate",
+      "roomCategory": "2 King ",
+      "pieceCategory": "Full Scope",
+      "id": 1
+    },
+    {
+      "name": "Amol",
+      "email": "amol@gmail.com",
+      "mobile": "987654321",
+      "reno": "Renovation of my Property",
+      "proper": "Wingate",
+      "roomCategory": "2 King ",
+      "pieceCategory": "Full Scope",
+      "id": 2
+    },
+    {
+      "name": "Pankaj",
+      "email": "pankaj@gmail.com",
+      "mobile": "987654321",
+      "reno": "Renovation of my Property",
+      "proper": "Wingate",
+      "roomCategory": "2 King ",
+      "pieceCategory": "Full Scope",
+      "id": 3
+    },
+    {
+      "name": "Tushar",
+      "email": "tushar@gmail.com",
+      "mobile": "987654321",
+      "reno": "Renovation of my Property",
+      "proper": "Wingate",
+      "roomCategory": "2 King ",
+      "pieceCategory": "Full Scope",
+      "id": 4
+    },
+    {
+      "name": "sunil",
+      "email": "sunil@gmail.com",
+      "mobile": "987654321",
+      "reno": "Renovation of my Property",
+      "proper": "Wingate",
+      "roomCategory": "2 King ",
+      "pieceCategory": "Full Scope",
+      "id": 5
+    },
+    {
+      "name": "abhishek",
+      "email": "abhishek@gmail.com",
+      "mobile": "987654321",
+      "reno": "Renovation of my Property",
+      "proper": "Wingate",
+      "roomCategory": "2 King ",
+      "pieceCategory": "Full Scope",
+      "id": 6
+    },
+    {
+      "name": "rahul",
+      "email": "rahulb310@gmail.com",
+      "mobile": "987654321",
+      "reno": "Renovation of my Property",
+      "proper": "Wingate",
+      "roomCategory": "2 King ",
+      "pieceCategory": "Full Scope",
+      "id": 7
+    },
+    {
+      "name": "rahul",
+      "email": "rahulb310@gmail.com",
+      "mobile": "987654321",
+      "reno": "Renovation of my Property",
+      "proper": "Wingate",
+      "roomCategory": "2 King ",
+      "pieceCategory": "Full Scope",
+      "id": 8
+    },
+    {
+      "name": "rahul",
+      "email": "rahulb310@gmail.com",
+      "mobile": "987654321",
+      "reno": "Renovation of my Property",
+      "proper": "Wingate",
+      "roomCategory": "2 King ",
+      "pieceCategory": "Full Scope",
+      "id": 9
+    },
+    {
+      "name": "rahul",
+      "email": "rahulb310@gmail.com",
+      "mobile": "987654321",
+      "reno": "Renovation of my Property",
+      "proper": "Wingate",
+      "roomCategory": "2 King ",
+      "pieceCategory": "Full Scope",
+      "id": 10
+    },
+    {
+      "name": "rahul",
+      "email": "rahulb310@gmail.com",
+      "mobile": "987654321",
+      "reno": "Renovation of my Property",
+      "proper": "Wingate",
+      "roomCategory": "2 King ",
+      "pieceCategory": "Full Scope",
+      "id": 11
+    },
+    {
+      "name": "rahul",
+      "email": "rahulb310@gmail.com",
+      "mobile": "987654321",
+      "reno": "Renovation of my Property",
+      "proper": "Wingate",
+      "roomCategory": "2 King ",
+      "pieceCategory": "Full Scope",
+      "id": 12
+    },
+    {
+      "name": "rahul",
+      "email": "rahulb310@gmail.com",
+      "mobile": "987654321",
+      "reno": "Renovation of my Property",
+      "proper": "Wingate",
+      "roomCategory": "2 King ",
+      "pieceCategory": "Full Scope",
+      "id": 13
+    },
+    {
+      "name": "rahul",
+      "email": "rahulb310@gmail.com",
+      "mobile": "987654321",
+      "reno": "Renovation of my Property",
+      "proper": "Wingate",
+      "roomCategory": "2 King ",
+      "pieceCategory": "Full Scope",
+      "id": 14
+    },
+    {
+      "name": "rahul",
+      "email": "rahulb310@gmail.com",
+      "mobile": "987654321",
+      "reno": "Renovation of my Property",
+      "proper": "Wingate",
+      "roomCategory": "2 King ",
+      "pieceCategory": "Full Scope",
+      "id": 15
+    },
+    {
+      "name": "rahul",
+      "email": "rahulb310@gmail.com",
+      "mobile": "987654321",
+      "reno": "Renovation of my Property",
+      "proper": "Wingate",
+      "roomCategory": "2 King ",
+      "pieceCategory": "Full Scope",
+      "id": 16
+    },
+    {
+      "name": "rahul",
+      "email": "admin@dhamaka.com",
+      "mobile": "987654321",
+      "reno": "Renovation of my Property",
+      "proper": "Wingate",
+      "roomCategory": "2 King ",
+      "pieceCategory": "Full Scope",
+      "id": 17
+    },
+    {
+      "name": "new user",
+      "email": "new@gmail.com",
+      "mobile": "9876543212",
+      "reno": "Renovation of my Property",
+      "proper": "Wingate",
+      "roomCategory": "4 King , 4 Queen , 3 ADA ",
+      "pieceCategory": "Full Scope, Lobby, GuestRooms",
+      "id": 18
+    },
+    {
+      "name": "rahul",
+      "email": "rahulb310@gmail.com",
+      "mobile": "7977293731",
+      "reno": "Renovation of my Property",
+      "proper": "Wingate",
+      "roomCategory": "2 King ",
+      "pieceCategory": "Full Scope",
+      "id": 19
+    },
+    {
+      "name": "Ankit",
+      "email": "ankit@gmail.com",
+      "mobile": "1234567899",
+      "reno": "Renovation of my Property",
+      "proper": "Wingate",
+      "roomCategory": "5 King ",
+      "pieceCategory": "Full Scope",
+      "id": 20
+    },
+    {
+      "name": "rahul",
+      "email": "rahulb310@gmail.com",
+      "mobile": "987654321",
+      "reno": "Renovation of my Property",
+      "proper": "Wingate",
+      "roomCategory": "2 King ",
+      "pieceCategory": "Full Scope",
+      "id": 21
+    },
+    {
+      "name": "rahul",
+      "email": "rahulb310@gmail.com",
+      "mobile": "987654321",
+      "reno": "Renovation of my Property",
+      "proper": "Wingate",
+      "roomCategory": "5 King ",
+      "pieceCategory": "Full Scope",
+      "id": 22
+    },
+    {
+      "name": "rahul",
+      "email": "rahulb310@gmail.com",
+      "mobile": "987654321",
+      "reno": "Renovation of my Property",
+      "proper": "Wingate",
+      "roomCategory": "2 King , 2 Queen , 2 ADA , 2 Suite ",
+      "pieceCategory": "Full Scope",
+      "id": 23
+    }
+  ],
+  "admin": [
+    {
+      "username": "sunil",
+      "password": "123"
+    }
+  ],
+  "tokens": [
+    {
+      "id": 1,
+      "token": "dummytoken123"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
